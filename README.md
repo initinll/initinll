@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitin Londhe
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning web3 stack - Rust, Solana
-- 💞️ I’m looking to collaborate on .net projects
+- 🌱 I’m currently learning web3 stack - Ethereum, Solidity, Rust, Solana
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me - Twitter @initinll
 
 <!---
