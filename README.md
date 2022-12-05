@@ -1,17 +1,18 @@
-Hi 👋 My name is Nitinl
+Hi 👋 My name is Nitin
 ========================
 
-Web2++ Developer
+A Backend Engineer
 ----------------
 
-`A passionate developer with always learning mode on, I am primarily a back-end developer & keep exploring different stacks at both ends.
-I am familiar with Svelte, vue and have some experience in Golang.
-At present I am learning Rust & Blockchain Web3 stack - Solidity, Ethereum.`
+`A passionate developer with always learning mode on, I am primarily a dotnet back-end developer & keep exploring different stacks at both ends.
+At front end I am familiar with Svelte, vue and as backend engineer I have worked with dotnet, Golang & python.
+
+Recent exploration - Blockchain Web3 stack - Solidity, Ethereum and Rust.`
 
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [initinli@outlook.com](mailto:initinli@outlook.com)
-*   🧠  I'm learning Blockchain Technology - Solidity, Hardhat, Ethers.js, Rust
-*   🤝  I'm open to collaborating on Web3 & Rust Projects
+*   🧠  I'm backend engineer
+*   🤝  I'm open to collaborating on open source projects
 
 ### Skills
 <p align="left">
