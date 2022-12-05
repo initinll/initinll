@@ -5,7 +5,7 @@ A Backend Engineer
 ----------------
 
 `A passionate developer with always learning mode on, I am primarily a dotnet back-end developer & keep exploring different stacks at both ends.
-At front end I am familiar with Svelte, vue and as backend engineer I have worked with dotnet, Golang & python.
+At front end I am familiar with Svelte, Vue and as Backend Engineer I have worked with Dotnet, Golang & Python.
 
 Recent exploration - Blockchain Web3 stack - Solidity, Ethereum and Rust.`
 
