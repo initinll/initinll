@@ -7,7 +7,7 @@ A Backend Engineer
 `A passionate developer with always learning mode on, I am primarily a dotnet back-end developer & keep exploring different stacks at both ends.
 At front end I am familiar with Svelte, Vue and as Backend Engineer I have worked with Dotnet, Golang & Python.
 
-Recent exploration - Rust`
+Recent exploration - Data Engineering`
 
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me at [initinli@outlook.com](mailto:initinli@outlook.com)
